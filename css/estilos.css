@@ -13,17 +13,31 @@ body{
 }
 .adaptativa-porcentaje-1 {
 	width: 70%;
-	
+	transition: width 1s;
+
+}
+.adaptativa-porcentaje-1:hover {
+	width: 90%;
 
 }
 .adaptativa-porcentaje-2  {
 	
 	width: 70%;
+	transition: width 1s;
 	
+}
+.adaptativa-porcentaje-2:hover {
+	width: 90%;
+
 }
 .adaptativa-porcentaje-3 {
 	width: 70%;
+	transition: width 1s;
 	
+}
+.adaptativa-porcentaje-3:hover {
+	width: 90%;
+
 }
 .adaptativa-porcentaje-4 {
 	width: 100px;
