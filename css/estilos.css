@@ -28,21 +28,7 @@ body{
 .adaptativa-porcentaje-4 {
 	width: 100px;
 }
-.adaptativa-porcentaje-1:hover{
-	width: 100%;
-	border: solid 4px black;
 
-}
-.adaptativa-porcentaje-2:hover {
-	
-	width: 100%;
-	border: solid 4px black;
-}
-.adaptativa-porcentaje-3:hover{
-	width: 100%;
-	border: solid 4px black;
-
-}
 footer{
 	text-align: center;
 	border-top: 2px solid brown;
